@@ -25,6 +25,42 @@ export const HeaderSection=()=>{
             <div>
             <audio controls src={audiomp3}></audio>
             </div>
+            <div>
+            <audio controls src={audiomp3}></audio>
+            </div>
+            <div>
+            <audio controls src={audiomp3}></audio>
+            </div>
+            <div>
+            <audio controls src={audiomp3}></audio>
+            </div>
+            <div>
+            <audio controls src={audiomp3}></audio>
+            </div>
+            <div>
+            <audio controls src={audiomp3}></audio>
+            </div>
+            <div>
+            <audio controls src={audiomp3}></audio>
+            </div>
+            <div>
+            <audio controls src={audiomp3}></audio>
+            </div>
+            <div>
+            <audio controls src={audiomp3}></audio>
+            </div>
+            <div>
+            <audio controls src={audiomp3}></audio>
+            </div>
+            <div>
+            <audio controls src={audiomp3}></audio>
+            </div>
+            <div>
+            <audio controls src={audiomp3}></audio>
+            </div>
+            <div>
+            <audio controls src={audiomp3}></audio>
+            </div>
  
             </header>
         </div>
